@@ -1,4 +1,4 @@
-##To-Do Application
+#To-Do Application
 
 This project contains a simple TODO application
 It has the following feature:
